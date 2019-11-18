@@ -1,7 +1,7 @@
 # Java Project 2: States
 This project about creating methods, arrayList and loops
 
-#####TODO:
+##### TODO:
 * After cloning this project don't forget to import junit4, how:
     * Navigate to CountriesTest.java, mouse over red lines and import junit4
 * Even after you add junit you'll have red under CountriesTest.java and it is ok, 
