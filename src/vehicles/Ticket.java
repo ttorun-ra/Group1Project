@@ -24,7 +24,7 @@ public class Ticket {
      * <p>
      * NOTE: you should assign all fines amounts to the FINE static field
      */
-
+//
     public static int getFine(int currentSpeed) {
         if (currentSpeed >= 80 && currentSpeed <= 90) {
             fine = 80;
